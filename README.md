@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [CYBER SECURITY CERTIFICATE.pdf](https://github.com/user-attachments/files/25241714/CYBER.SECURITY.CERTIFICATE.pdf)
 [DATA ANALYTICS.pdf](https://github.com/user-attachments/files/25241717/DATA.ANALYTICS.pdf)
 [DATA SCIENCE.pdf](https://github.com/user-attachments/files/25241718/DATA.SCIENCE.pdf)
+
+<img width="3513" height="2488" alt="DEVOPS CERTIFICATE" src="https://github.com/user-attachments/assets/af3d7f87-45b2-4692-b0af-3c5b706fa29b" />
