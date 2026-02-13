@@ -14,10 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[DEVOPS CERTIFICATE.pdf](https://github.com/user-attachments/files/25241706/DEVOPS.CERTIFICATE.pdf)
-[AWS CERTIFICATE.pdf](https://github.com/user-attachments/files/25241710/AWS.CERTIFICATE.pdf)
-[CYBER SECURITY CERTIFICATE.pdf](https://github.com/user-attachments/files/25241714/CYBER.SECURITY.CERTIFICATE.pdf)
-[DATA ANALYTICS.pdf](https://github.com/user-attachments/files/25241717/DATA.ANALYTICS.pdf)
-[DATA SCIENCE.pdf](https://github.com/user-attachments/files/25241718/DATA.SCIENCE.pdf)
 
 
