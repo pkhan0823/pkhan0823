@@ -4,6 +4,7 @@
 # 🧠 Insight
 
 Greetings, code crafters! I'm **Parwez Khan**, shaping ideas into reality one commit at a time. 💻✨
+.github/workflows
 ![Snake animation](https://github.com/pkhan0823/pkhan0823/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation](https://github.com/pkhan0823/pkhan0823/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
