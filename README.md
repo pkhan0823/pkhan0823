@@ -7,6 +7,31 @@ Greetings, code crafters! I'm **Parwez Khan**, shaping ideas into reality one co
 
 ---
 
+## 📊 Unique Insight Graphs
+
+### 🔥 Contribution Heatmap
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pkhan0823&theme=tokyo-night&hide_border=true&area=true)
+
+### ⚡ Coding Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pkhan0823&theme=radical&hide_border=true)
+
+### 🌐 Language Usage
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhan0823&layout=compact&theme=vision-friendly-dark&hide_border=true)
+
+### 🚀 Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkhan0823&show_icons=true&theme=react&hide_border=true)
+
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=pkhan0823&color=brightgreen&style=flat-square)
+
+# 🧠 Insight
+
+Greetings, code crafters! I'm **Parwez Khan**, shaping ideas into reality one commit at a time. 💻✨  
+
+---
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pkhan0823&theme=react-dark&hide_border=true&area=true)
 
 ---
