@@ -7,6 +7,22 @@ Greetings, code crafters! I'm **Parwez Khan**, shaping ideas into reality one co
 
 ---
 
+## 🐍 Contribution Snake
+
+![GitHub Snake Light](https://github.com/pkhan0823/pkhan0823/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/pkhan0823/pkhan0823/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=pkhan0823&color=brightgreen&style=flat-square)
+
+# 🧠 Insight
+
+Greetings, code crafters! I'm **Parwez Khan**, shaping ideas into reality one commit at a time. 💻✨  
+
+---
+
 ## 📊 Unique Insight Graphs
 
 ### 🔥 Contribution Heatmap
