@@ -1,6 +1,43 @@
 ## 👋 Hi, I'm Parwez Khan
 
 🎯 **Aspiring IT Professional | Web Developer | Creative Technologist**
+# 🧠 Insight
+
+Greetings, code crafters! I'm **Parwez Khan**, shaping ideas into reality one commit at a time. 💻✨  
+
+---
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pkhan0823&theme=react-dark&hide_border=true&area=true)
+
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=pkhan0823&color=brightgreen&style=flat-square)
+
+---
+
+## 🚀 About Me
+- 🎓 BCA Graduate | Aspiring IT Professional  
+- 💡 Skilled in **Python, JavaScript, HTML, CSS, C# (Unity)**  
+- 🌐 Passionate about **Web Development & Creative Tech**  
+- 🔧 Experienced with **Git, GitHub Pages, DNS setup, SSH, PowerShell**  
+- 🎨 Love blending **design & animation** with technical workflows  
+
+---
+
+## 📈 Current Goals
+- Launch a polished **portfolio website** with a custom domain  
+- Master **DNS verification & domain management**  
+- Build recruiter-friendly **project documentation**  
+- Explore creative branding for technical projects  
+
+---
+
+## 📫 Connect With Me
+- **GitHub:** [pkhan0823](https://github.com/pkhan0823)  
+- **LinkedIn:** *(Add your LinkedIn link here)*  
+- **Email:** *(Add your professional email here)*  
+
 
 I’m a **BCA graduate** with a strong foundation in programming and web development. Currently, I’m building my portfolio and actively seeking opportunities in IT and creative tech roles. My focus is on combining **technical problem-solving** with **visual creativity** to deliver engaging digital experiences.
 
