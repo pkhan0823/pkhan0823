@@ -7,6 +7,8 @@
 
 ╰┈➤Love blending **design & animation** with technical workflows 💻✦ 
 
+╰┈➤Aspiring Software Developer & Data Analyst. Building cool stuff with Python & Java. Learning the art of clean code and system design.
+
 ![snake](https://github.com/user-attachments/assets/0857b368-6ea5-4329-aef5-f50a13b71932)
 ---
 
