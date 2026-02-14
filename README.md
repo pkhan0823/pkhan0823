@@ -7,16 +7,6 @@ Greetings, code crafters! I'm **Parwez Khan**, shaping ideas into reality one co
 
 
 ![snake](https://github.com/user-attachments/assets/0857b368-6ea5-4329-aef5-f50a13b71932)
-
-
-
----
-
-## 🐍 Contribution Snake
-
-![GitHub Snake Light](https://github.com/pkhan0823/pkhan0823/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/pkhan0823/pkhan0823/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 ---
 
 ## 👀 Profile Views
