@@ -4,6 +4,7 @@
 # 🧠 Insight
 
 Greetings, code crafters! I'm **Parwez Khan**, shaping ideas into reality one commit at a time. 💻✨
+sha256:1434c3d18ba3c358031d5d73d6ae8484c60b9744ee691fc9eefe93f298529028
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/pkhan0823/pkhan0823/blob/output/github-contribution-grid-snake.svg)
