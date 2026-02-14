@@ -10,10 +10,6 @@
 ![snake](https://github.com/user-attachments/assets/0857b368-6ea5-4329-aef5-f50a13b71932)
 ---
 
-## ┈➤ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=pkhan0823&color=brightgreen&style=flat-square)
-
----
 
 ## ၊၊||၊ Unique Insight Graphs
 
