@@ -1,19 +1,16 @@
 ## 👋 Hi, I'm Parwez Khan
 
-╰┈➤**Aspiring IT Professional | Web Developer | Creative Technologist**
-# Insight
+╰┈➤** 🎓BCA Graduate | Aspiring IT Professional | Web Developer | Creative Technologist**
+# ၊၊||၊ Insight
 
 ╰┈➤Greetings, code crafters! I'm **Parwez Khan**, shaping ideas into reality one commit at a time. 💻✦
-
+╰┈➤Love blending **design & animation** with technical workflows  
 
 ![snake](https://github.com/user-attachments/assets/0857b368-6ea5-4329-aef5-f50a13b71932)
 ---
 
 ## ┈➤ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=pkhan0823&color=brightgreen&style=flat-square)
-
-
-╰┈➤Greetings, code crafters! I'm **Parwez Khan**, shaping ideas into reality one commit at a time. 💻✦  
 
 ---
 
@@ -27,14 +24,7 @@
 
 ---
 
-## 
-- 🎓 BCA Graduate | Aspiring IT Professional  
-- 💡 Skilled in **Python, JavaScript, HTML, CSS, C# (Unity)**  
-- 🌐 Passionate about **Web Development & Creative Tech**  
-- ➤ Experienced with **Git, GitHub Pages, DNS setup, SSH, PowerShell**  
-- 🎨 Love blending **design & animation** with technical workflows  
 
----
 
 ## 💻Skills & Tools
 - **Programming:** Python, JavaScript, HTML, CSS, C# (Unity)
@@ -63,7 +53,7 @@
 
 ##  ✉ Connect with Me
 - **GitHub:** [pkhan0823](https://github.com/pkhan0823)
-- **LinkedIn:**https://www.linkedin.com/in/parwez-khan-b43a68373 **
+- **LinkedIn:** *https://www.linkedin.com/in/parwez-khan-b43a68373 *
 - **Email:** *pk08parwez@gmail.com*
 
 ---
