@@ -29,7 +29,6 @@
 - **Problem-Solving:** Rapid troubleshooting, step-by-step debugging
 ---
 ## 🌐 Portfolio Projects
-file:///C:/Users/pk08p/OneDrive/Desktop/index.html#about
 - **Personal Portfolio Website** – Deployed on GitHub Pages with a custom domain
 - **Interactive Web Interfaces** – CSS animations and recruiter-friendly layouts
 - **Unity Projects** – C# scripts for interactive experiences
