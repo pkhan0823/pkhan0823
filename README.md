@@ -3,7 +3,9 @@
 # ၊၊||၊ Insight
 ![snake](https://github.com/user-attachments/assets/0857b368-6ea5-4329-aef5-f50a13b71932)
 
+╰┈➤**🎓BCA Graduate | Aspiring IT Professional | Web Developer | Creative Technologist**
 
+╰┈➤Greetings, code crafters! I'm **Parwez Khan**, shaping ideas into reality one commit at a time. 💻✦
 
 ╰┈➤Love blending **design & animation** with technical workflows 💻✦ 
 
