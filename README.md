@@ -6,7 +6,6 @@
 
 [parwez khan resume.pdf](https://github.com/user-attachments/files/25813519/parwez.khan.resume.pdf)
 
-
  ╰┈➤**🎓BCA Graduate | Aspiring IT Professional | Web Developer | Creative Technologist**
 
 ╰┈➤Greetings, code crafters! I'm **Parwez Khan**, shaping ideas into reality one commit at a time. 💻✦
