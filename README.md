@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Parwez Khan
+##  Hi, I'm Parwez Khan
 
 # ၊၊||၊ Insight
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# Hi there, I'm Parwez Khan 👋
+# Hi there, I'm Parwez Khan 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/pkhan0823)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parwez-khan-b43a68373)
@@ -75,7 +75,7 @@
 ---
 
 ### Connect and Collaborate
-- **portfolio:**
+- **portfolio:**https://pkhan0823.github.io/my-portfolio/
 - **GitHub:** [@pkhan0823](https://github.com/pkhan0823)
 - **LinkedIn:** [Parwez Khan](https://www.linkedin.com/in/parwez-khan-b43a68373)
 - **Direct Mail:** `pk08parwez@gmail.com`
