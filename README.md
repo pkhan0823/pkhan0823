@@ -76,8 +76,8 @@
 
 ### Connect and Collaborate
 - **portfolio:**
-- **GitHub:** [@pkhan0823](https://github.com/pkhan0823)[cite: 1]
-- **LinkedIn:** [Parwez Khan](https://www.linkedin.com/in/parwez-khan-b43a68373)[cite: 1]
+- **GitHub:** [@pkhan0823](https://github.com/pkhan0823)
+- **LinkedIn:** [Parwez Khan](https://www.linkedin.com/in/parwez-khan-b43a68373)
 - **Direct Mail:** `pk08parwez@gmail.com`
 
 
