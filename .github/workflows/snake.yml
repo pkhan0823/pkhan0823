@@ -17,7 +17,9 @@ jobs:
         id: snake-gif
         with:
           github_user_name: pkhan0823
-          svg_out_path: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
