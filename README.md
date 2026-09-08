@@ -14,8 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parwez-khan-b43a68373)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pk08parwez@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=0,2,10,15,30&height=120&section=header&text=Cloud%20|%20DevOps%20|%20AI%20%26%20ML&fontSize=24&fontColor=fff" width="100%" />
-
 </div>
 
 ---
@@ -55,22 +53,23 @@
 
 | Project Name | Tech Stack | Core Impact |
 | :--- | :--- | :--- |
-| **Data Engineering Crawler**[cite: 1] | `Python`, `HTML`[cite: 1] | Automated web crawling system integrated with AI-driven extraction logic[cite: 1]. |
+| **Data Engineering Crawler**[cite: 1] | `Python`, `HTML`[cite: 1] | Automated web crawler system integrated with AI-driven extraction logic[cite: 1]. |
 | **RFM Analysis Dashboard**[cite: 1] | `Python`[cite: 1] | Customer segmentation dashboard evaluating behavioral patterns via Recency, Frequency, Monetary metrics[cite: 1]. |
 | **Smart Calculator**[cite: 1] | `Android Studio`[cite: 1] | Mobile app utility featuring clean architecture and custom layout logic[cite: 1]. |
 
 ---
 
-### 📊 Metrics & Activity
+### 📊 Core Competencies & Focus
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=pkhan0823&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="Stats" /></td>
-      <td><img src="https://github-readme-steak-stats.herokuapp.com/?user=pkhan0823&theme=radical&hide_border=true" alt="Streak" /></td>
-    </tr>
-  </table>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pkhan0823&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)]()
+
 </div>
 
 ---
@@ -79,10 +78,6 @@
 - **GitHub:** [@pkhan0823](https://github.com/pkhan0823)[cite: 1]
 - **LinkedIn:** [Parwez Khan](https://www.linkedin.com/in/parwez-khan-b43a68373)[cite: 1]
 - **Direct Mail:** `pk08parwez@gmail.com`[cite: 1]
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=30,15,10,2,0&height=60&section=footer" width="100%" />
-</div>
 
 
 
