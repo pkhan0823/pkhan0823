@@ -2,7 +2,7 @@
 
 # ၊၊||၊ Insight
 
-![snake](https://github.com/user-attachments/assets/0857b368-6ea5-4329-aef5-f50a13b71932)
+github-snake.svg
 
 [parwez khan resume.pdf](https://github.com/user-attachments/files/25813519/parwez.khan.resume.pdf)
 
