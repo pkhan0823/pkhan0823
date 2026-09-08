@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/pkhan0823/pkhan0823/output/github-snake.svg" alt="GitHub Snake Animation" width="100%" />
 </div>
-[parwez khan resume.pdf](https://github.com/user-attachments/files/25813519/parwez.khan.resume.pdf)
+
 
 <div align="center">
 
