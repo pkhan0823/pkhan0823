@@ -27,7 +27,7 @@
 
 ---
 
-### ⚡ Technical Arsenal
+###  Technical Arsenal
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -39,7 +39,7 @@
 
 ---
 
-### 💼 Professional Experience & Milestones
+###  Professional Experience & Milestones
 
 * **AWS DevOps Intern @ Reshapp's Solution** *(Remote | May 2025 – Jul 2025)*
   * Engineered and deployed scalable cloud infrastructure utilizing **AWS EC2** and **Docker**.
@@ -54,13 +54,13 @@
 
 | Project Name | Tech Stack | Core Impact |
 | :--- | :--- | :--- |
-| **Data Engineering Crawler** | `Python`, `HTML` | Automated web crawler system integrated with AI-driven extraction logic[cite: 1]. |
+| **Data Engineering Crawler** | `Python`, `HTML` | Automated web crawler system integrated with AI-driven extraction logic. |
 | **RFM Analysis Dashboard** | `Python` | Customer segmentation dashboard evaluating behavioral patterns via Recency, Frequency, Monetary metrics. |
 | **Smart Calculator**| `Android Studio` | Mobile app utility featuring clean architecture and custom layout logic. |
 
 ---
 
-### 📊 Core Competencies & Focus
+###  Core Competencies & Focus
 
 <div align="center">
 
