@@ -22,7 +22,7 @@
 
 ###  About Me
 * 🎓 **Current Focus:** Pursuing an MCA at KL University after graduating with a BCA.
-*  **Cloud & Infrastructure:** Hands-on professional background deploying scalable cloud solutions using **AWS (EC2, Solutions Architecture)** and **Docker**
+*  **Cloud & Infrastructure:** Hands-on professional background deploying scalable cloud solutions using **AWS (EC2, Solutions Architecture)** and **Docker** and **Linux**
 *  **AI & Data Engineering:** Experienced in building automated web crawlers, custom predictive models, and data preprocessing pipelines.
 *  **Engineering Mindset:** Emphasizing system reliability, infrastructure-as-code paradigms, automated workflows, and clean code architecture.
 
